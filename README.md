@@ -1,1 +1,1 @@
-#Floatchat
+<p>This is a chatbot interface , a part of FLoatchat , which handles user queries regarding data of ocean. It is linked with a machine learning model which gives temperature for a certain langitude ,longitude and pressure</p>
